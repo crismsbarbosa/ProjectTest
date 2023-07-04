@@ -1,1 +1,1 @@
-console.log("Vamso rodar a aplicacao")
+console.log("Vamos rodar a aplicacao!")
